@@ -75,3 +75,12 @@ p {
     text-align: center;
     padding: 4%;
 }
+
+.icon{
+    color: #EF8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: #ff4c68;
+}
