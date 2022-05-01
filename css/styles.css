@@ -20,8 +20,9 @@ h1 {
 }
 
 h3 {
-    font-family: "Montserrat-Bold";
+    font-family: "Montserrat";
     font-size: 1.5rem;
+    font-weight: bold;
 }
 
 p {
@@ -72,5 +73,5 @@ p {
 
 .feature-box{
     text-align: center;
-    padding: 5%;
+    padding: 4%;
 }
