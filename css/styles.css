@@ -162,6 +162,9 @@ p {
     text-align: center;
 }
 
+.social-icon{
+    margin: 20px 10px;
+}
 
 
 @media (max-width: 1028px){
@@ -169,10 +172,6 @@ p {
     #title {
         text-align: center;
     }
-
-.social-icon{
-    margin: 20px 10px;
-}
 
     .title-image{
      position: static;  
