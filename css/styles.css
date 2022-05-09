@@ -142,6 +142,11 @@ p {
     text-align: center;
 }
 
+.price-text{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
 .pricing-column {
     padding: 3% 2%;
 }
