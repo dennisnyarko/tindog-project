@@ -18,15 +18,14 @@ body {
 
 }
 
-#title {
-    background-color: #ff4c68;
-    color: #fff;
-    text-align: left;
-}
+
+/* Containers */
 
 .container-fluid {
     padding: 7% 15%;
 }
+
+
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "Montserrat";
@@ -67,6 +66,19 @@ p {
 .download-button {
     margin: 5% 3% 5% 0;
 }
+
+/* Title Section */
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+    text-align: left;
+}
+
+#title .container-fluid {
+padding: 3% 15% 7%;
+}
+
 
 /* Title Image  */
 
